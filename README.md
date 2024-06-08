@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 # Hola, soy Matias Abella 👋
 
 ## Sobre mí
@@ -19,5 +23,5 @@ El objetivo de la aplicación es facilitar el proceso de búsqueda de alquileres
 
 ## Contacto
 Si deseas ponerse en contacto conmigo, puedes hacerlo a través de:
-- Correo: matiasabella@gmail.com
-- LinkedIn: [abellamatias](https://www.linkedin.com/in/abellamatias/)
+- <i class="fa fa-envelope" aria-hidden="true"></i>Correo: matiasabella@gmail.com
+- <i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn: [abellamatias](https://www.linkedin.com/in/abellamatias/)
