@@ -6,8 +6,11 @@ Soy estudiante de segundo año de la Tecnicatura Universitaria en Programación 
 ## Habilidades técnicas
 - **C# .NET**
 - Java
+- Python
+- JavaScript
 - HTML
 - CSS
+- React
 
 ## Proyectos
 He trabajado en varios proyectos prácticos en la universidad que me han ayudado a solidificar mis conocimientos en C#. Algunos de ellos son:
@@ -17,5 +20,5 @@ He trabajado en varios proyectos prácticos en la universidad que me han ayudado
 
 ## Contacto
 Si deseas ponerse en contacto conmigo, puedes hacerlo a través de:
-- Correo: matiasabella@gmail.com
+- Correo: matiasabella2000@gmail.com
 - LinkedIn: [abellamatias](https://www.linkedin.com/in/abellamatias/)
