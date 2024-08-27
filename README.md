@@ -8,9 +8,13 @@ Soy estudiante de segundo año de la Tecnicatura Universitaria en Programación 
 - Java
 - Python
 - JavaScript
+- Node.js + Express
 - HTML
 - CSS
-- React
+- React + Vite
+- Chakra UI
+- MongoDB
+- PostgreSQL
 
 ## Proyectos
 He trabajado en varios proyectos prácticos en la universidad que me han ayudado a solidificar mis conocimientos en C#. Algunos de ellos son:
