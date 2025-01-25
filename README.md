@@ -8,7 +8,6 @@ Soy estudiante de segundo año de la Tecnicatura Universitaria en Programación 
 - Java
 - Python
 - JavaScript
-- Node.js + Express
 - HTML
 - CSS
 - React + Vite
